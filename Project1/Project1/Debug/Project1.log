@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+c:\users\szymon\source\repos\project1\project1\źródło.cpp(87): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\szymon\source\repos\project1\project1\źródło.cpp(96): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Project1.vcxproj -> C:\Users\Szymon\source\repos\Project1\Debug\Project1.exe
